@@ -11,4 +11,5 @@ What's in the notebooks
 - GloVe embeddings implemented from scratch
 
 What I've learned so far
+
 The foundations of neural networks - gradient descent, backpropagation, activation functions - followed by CNNs (convolutional filters, pooling layers), natural language representation with multi-hot vectors and standalone embeddings like GloVe, and the basics of contextual embeddings produced by transformers.
